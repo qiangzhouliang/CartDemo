@@ -1,0 +1,4 @@
+# CartDemo
+这是一个使用JSP+servlet实现的购物车效果
+实现了对使用JDBC对mysql数据库的简单操作
+实现了浏览记录功能等
